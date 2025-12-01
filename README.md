@@ -50,8 +50,7 @@ Folder: `/PowerBI_Marketing_Dashboard`
 
 ## 📬 Contact
 📧 Email: **paramjotkalsi1131@gmail.com**  
-📍 Location: Hoshiarpur, Punjab  
-🔗 (Add GitHub & LinkedIn links once ready)
+📍 Location: Hoshiarpur, Punjab 
 
 ---
 
